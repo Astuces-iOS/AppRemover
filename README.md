@@ -1,10 +1,12 @@
-# AppRemover
-App remover vous permet de supprimer vos fichiers. Télécharger l'app pour bien supprimer vos fichiers.
+# 🗑️ AppRemover
+App remover vous permet de supprimer des fichiers sur votre Mac facilement. Télécharger l'app pour bien supprimer vos fichiers.
 
-# Compatibilité
+# 🌿 Fonctionnalités
+
+- Supprimer des fichiers sur votre Mac en quelques clics.
+
+- Découvrez comment récupérer un fichier supprimé. 
+
+# 💻 Compatibilité
 
 Si vous avez un mac compatible avec 10.6 cette app devrait fonctionner
-
-# Avec l'aide de ChatGPT
-
-J'ai été aidé par ChatGPT pour créé cette app. 
