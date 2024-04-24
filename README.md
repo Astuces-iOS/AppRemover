@@ -5,7 +5,9 @@ App remover vous permet de supprimer des fichiers sur votre Mac facilement. Tél
 
 - Supprimer des fichiers sur votre Mac en quelques clics.
 
-- Découvrez comment récupérer un fichier supprimé. 
+- Supprimer des fichiers définitivement rapidement 🆕
+
+- Récupérer des fichiers supprimés. 
 
 # 💻 Compatibilité
 
